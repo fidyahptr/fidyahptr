@@ -2,8 +2,6 @@
 
 Frontend Engineer with expertise in modern web technologies, specializing in building responsive and performant applications using Next.js and React.js. Strong collaborative mindset with experience in cross-functional teams and Git-based workflows. Passionate about creating intuitive user experiences while maintaining clean code principles and frontend development best practices.
 
-<br>
-
 <!-- ## ✨ Language and Tools -->
 
 <!-- <a href="https://www.python.org/" target="_blank"> <img src="images/python.webp" height="40px"/> </a>
